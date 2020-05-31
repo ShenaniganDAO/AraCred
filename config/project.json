@@ -35,10 +35,10 @@
         "name": "ShenaniganDApp.github.io",
         "owner": "ShenaniganDApp"
       },
-      {
-        "name": "app",
-        "owner": "ShenaniganDApp"
-      },
+      //{
+        //"name": "app",
+       // "owner": "ShenaniganDApp"
+     // },
       {
         "name": "server",
         "owner": "ShenaniganDApp"
