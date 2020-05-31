@@ -24,10 +24,6 @@
     ],
     "repoIds": [
       {
-        "name": "AraCred",
-        "owner": "ShenaniganDAO"
-      },
-      {
         "name": "contracts",
         "owner": "ShenaniganDApp"
       },
