@@ -14,8 +14,8 @@
         "💯": 1,
         "🙏": 1,
         ":Shenanigan": 1,
-        ":art:":4,
-        "👋":1
+        ":art:": 4,
+        "👋": 1
       }
     },
     "identities": [
@@ -24,6 +24,12 @@
         "aliases": [
           "github/youngkidwarrior",
           "discord/683892894767251489"
+        ]
+      },
+      {
+        "username": "jamesyoung",
+        "aliases": [
+          "discord/326397724675276802"
         ]
       }
     ],
