@@ -20,9 +20,11 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v1
+      - name: Remove Cache
+        uses: rm -rf sourcecred_data/cache
       - name: SourceCred Cache
         uses: actions/cache@v1
-        with:
+        with: 
           # cred-action uses *workspace*/sourcecred_data as it's SOURCECRED_DIRECTORY. Only store the cache from that.
           path: sourcecred_data/cache
           key: SC_CACHE-${{ hashFiles('**/project.json') }}-${{ github.run_id }}
