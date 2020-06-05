@@ -4,7 +4,7 @@
     "version": "0.4.0"
   },
   {
-    "id": "@AraCred",
+    "id": "@SHECred",
     "discord": {
       "guildId": "696853831476314204",
       "reactionWeights": {
@@ -13,35 +13,38 @@
         "❤️": 1,
         "💯": 1,
         "🙏": 1,
-        ":Shenanigan": 1
+        ":Shenanigan": 1,
+        ":art:": 4,
+        "👋": 1
       }
     },
     "identities": [
       {
         "username": "youngkidwarrior",
-        "aliases": ["github/youngkidwarrior"]
+        "aliases": [
+          "github/youngkidwarrior",
+          "discord/683892894767251489"
+        ]
+      },
+      {
+        "username": "jamesyoung",
+        "aliases": [
+          "discord/326397724675276802"
+        ]
       }
     ],
     "repoIds": [
       {
-        "name": "AraCred",
-        "owner": "SHEDAO"
-      },
-      {
         "name": "contracts",
-        "owner": "youngkidwarrior"
+        "owner": "ShenaniganDApp"
       },
       {
         "name": "ShenaniganDApp.github.io",
-        "owner": "youngkidwarrior"
-      },
-      {
-        "name": "app",
-        "owner": "youngkidwarrior"
+        "owner": "ShenaniganDApp"
       },
       {
         "name": "server",
-        "owner": "youngkidwarrior"
+        "owner": "ShenaniganDApp"
       }
     ]
   }
