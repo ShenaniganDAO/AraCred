@@ -20,10 +20,10 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v1
-      - name: Remove File
-        uses: JesseTG/rm@v1.0.0
-        with: 
-          path: sourcecred_data/cache
+      # - name: Remove File
+      #   uses: JesseTG/rm@v1.0.0
+      #   with: 
+      #     path: sourcecred_data/cache
       - name: SourceCred Cache
         uses: actions/cache@v1
         with: 
