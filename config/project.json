@@ -45,7 +45,11 @@
       {
         "name": "server",
         "owner": "ShenaniganDApp"
-      }
+      },
+      {
+        "name": "wiki",
+        "owner": "ShenaniganDapp"
+      }   
     ]
   }
 ]
