@@ -31,6 +31,14 @@
         "aliases": [
           "discord/326397724675276802"
         ]
+      },
+      {
+        "username": "seace1",
+        "aliases": [
+          "github/seace1",
+          "discourse/seace1",
+          "discord/733100394930110524"
+        ]
       }
     ],
     "repoIds": [
@@ -49,7 +57,7 @@
       {
         "name": "wiki",
         "owner": "ShenaniganDapp"
-      }   
+      }
     ]
   }
 ]
